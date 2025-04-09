@@ -3,6 +3,8 @@
 Dhun Music is a responsive music website built using **HTML**, **CSS**, and **vanilla JavaScript**. It offers an intuitive and dynamic user experience for music enthusiasts.  
 
 ---
+![Screenshot (47)](https://github.com/user-attachments/assets/3dcdd504-a405-4143-bb8c-8009ac0ae472)
+
 
 ## 🌟 Features  
 
